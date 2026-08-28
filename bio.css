@@ -1,0 +1,25 @@
+p{
+    font-family: 'Arial', sans-serif;
+    color: #0a0248;
+}
+#judul-utama {
+    color: rgb(3, 3, 127);
+    text-align: center;
+    background-color: rgb(46, 100, 250);
+    font-size: 36px;
+}
+.highlight {
+    background-color: rgb(58, 115, 237);
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Arial', sans-serif;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    border: 1px solid rgb(11, 5, 93);
+    padding: 8px;
+    background-color: rgb(116, 164, 227);
+}
